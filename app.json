@@ -30,12 +30,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": false,
-			"value": "AJMAL x ABHI"
+			"value": "➣⃟⃟🦇ꪶ͢𝜜𝑳𝜩𝑿𝜜𝑁𝐷𝜩𝑹ꫂ ⃟⃟⃟⃟🐈‍⬛🖤 "
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "917065270329"
 		},
 		"Caption": {
 			"description": "Add the owner location here and if you want to use the default name then just leave it",
@@ -50,27 +50,27 @@
 		"BOT_NAME": {
 			"description": "Change the bot name here",
 			"required": true,
-			"value": "Wizard MD"
+			"value": "➣⃟⃟🦇ꪶ͢𝜜𝑳𝜩𝑿𝜜𝑁𝐷𝜩𝑹ꫂ ⃟⃟⃟⃟🐈‍⬛🖤 "
 		},
 		"WATERMARK": {
 			"description": "Add your watermark here",
 			"required": true,
-			"value": "Wizard MD by AJMAL x ABHI"
+			"value": "➣⃟⃟🦇ꪶ͢𝜜𝑳𝜩𝑿𝜜𝑁𝐷𝜩𝑹ꫂ ⃟⃟⃟⃟🐈‍⬛🖤 "
 		},
 		"STICKER_PACK_NAME": {
 			"description": "Add sticker pack name here",
 			"required": true,
-			"value": "Wizard-MD"
+			"value": "➣⃟⃟🦇ꪶ͢𝜜𝑳𝜩𝑿𝜜𝑁𝐷𝜩𝑹ꫂ ⃟⃟⃟⃟🐈‍⬛🖤 "
 		},
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "AJMAL x ABHI"
+			"value": "➣⃟⃟🦇ꪶ͢𝜜𝑳𝜩𝑿𝜜𝑁𝐷𝜩𝑹ꫂ ⃟⃟⃟⃟🐈‍⬛🖤 "
 		},
 		"REACT_EMOJI": {
 			"description": "Add any emoji here.",
 			"required": true,
-			"value": ""
+			"value": "❤️"
 		},
                 "LOGO": {
 			"description": "Add any emoji here.",
